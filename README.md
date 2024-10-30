@@ -26,6 +26,4 @@
 
 # Where am I deployed?
 
-<enter your URL here>
-
-
+https://671f3cf7a548b27b6aac2f5e--harmonious-cascaron-d228a0.netlify.app/
